@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhtar-tech786
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning engineering 
-- 💞️ I’m looking to collaborate on data analytics
+- 💞️ I’m looking to collaborate on data science 
 - 📫 How to reach me - Github
 
 <!---
