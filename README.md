@@ -55,7 +55,7 @@ I am a Full Stack Developer | Data Scientist <img src="https://media.giphy.com/m
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhtar-tech786&layout=compact&theme=vision-friendly-dark)
 
-### ✍️ Random Dev Quotes
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
