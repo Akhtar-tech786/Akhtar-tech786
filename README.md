@@ -52,7 +52,7 @@ I am a Full Stack Developer | Data Scientist <img src="https://media.giphy.com/m
 </div>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akhtar-tech786&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhtar-tech786&theme=nordfox)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhtar-tech786&layout=compact&theme=vision-friendly-dark)
 
