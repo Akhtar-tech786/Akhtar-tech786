@@ -78,7 +78,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <tr>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6641bee1be1325bdf3996d71?variant=dark" alt="roadmap.sh"/></a>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6641bee1be1325bdf3996d71?variant=dark&roadmaps=data-analyst%2Cai-engineer%2Csql" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
